@@ -1,2 +1,2 @@
-## Ipl dashboard ok ?
+## Ipl dashboard 
 ![My Image](demo-dh.png)
