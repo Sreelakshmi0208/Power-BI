@@ -1,3 +1,5 @@
+POWER BI IPL DATA ANALYSIS
+
 Dashboard Description: The IPL Data Analysis dashboard offers a comprehensive and interactive visualization of all Indian Premier League (IPL) seasons to date. It provides in-depth insights into team and player performances, highlighting trends and patterns across multiple years of the tournament.
 
 Tournament Overview Section: This section captures key highlights of every IPL season from inception to the latest edition, including:
