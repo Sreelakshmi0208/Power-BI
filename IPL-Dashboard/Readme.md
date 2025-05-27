@@ -1,2 +1,2 @@
 ## Ipl dashboard 
-![My Image](demo-dh.png)
+![My Image](Summary.png)
